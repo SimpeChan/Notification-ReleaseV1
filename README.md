@@ -15,4 +15,5 @@
 - true
 - true
 -  [{"ZSSQ_BASE_URL":"api.zhuishushenqi.com","W_ZSSQ_URL":"www.zhuishushenqi.com","ZSSQ_IMG_URL":"statics.zhuishushenqi.com","ZSSQ_CHARTER_BASE":"chapter2.zhuishushenqi.com/chapter/"}](http://www.baidu.com)
+- http://192.168.1.107:8000/
 ---
