@@ -14,5 +14,5 @@
 - ca-app-pub-3033436894115697/8529562064
 - true
 - true
--  [{"ZSSQ_BASE_URL":"api.zhuishushenqi.com","W_ZSSQ_URL":"www.zhuishushenqi.com","ZSSQ_IMG_URL":"statics.zhuishushenqi.com","ZSSQ_CHARTER_BASE":"chapter2.zhuishushenqi.com/chapter/"}]
+-  [{"ZSSQ_BASE_URL":"api.zhuishushenqi.com","W_ZSSQ_URL":"www.zhuishushenqi.com","ZSSQ_IMG_URL":"statics.zhuishushenqi.com","ZSSQ_CHARTER_BASE":"chapter2.zhuishushenqi.com/chapter/"}](http://www.baidu.com)
 ---
