@@ -1,8 +1,8 @@
-- 声明
-- 2017-12-16 19:23
-- 本应用为RN开发教学专用，所有资源都来自于互联网第三方搜索。本应用支持繁体，欲使用繁体请修改系统语言为繁体(非简体即可)，并关闭应用后台重打开应用
-- 前往下载
-- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
+- 新版本提示
+- 2018-1-16 19:23
+- 还在担心流量不够用吗，本阅读器缓存(下载)离线阅读功能帮你轻松解决问题。通过wifi缓存(下载)全本书后，在无网络的时候从书架进入阅读，点击离线模式即可
+- 查看详情
+- https://github.com/SemperChen/tianxiashuge/blob/master/README.md
 - true
 - 5000
 - false
