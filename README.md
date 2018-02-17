@@ -1,5 +1,5 @@
 - 新版本提示
-- 2018-1-16 19:23
+- 2018-1-16 19:24
 - 还在担心流量不够用吗，本阅读器缓存(下载)离线阅读功能帮你轻松解决问题。通过wifi缓存(下载)全本书后，在无网络的时候从书架进入阅读，点击离线模式即可。Google Play已发布最新版
 - 查看详情
 - https://github.com/SemperChen/tianxiashuge/blob/master/README.md
