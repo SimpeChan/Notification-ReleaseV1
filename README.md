@@ -1,9 +1,9 @@
-- 新版本提示
-- 2018-1-22 19:24
-- 下一版本为react native教学示例，将下架所有书籍内容，请大家不要更新并取消自动更新！！！
-- 查看详情
-- https://github.com/SemperChen/tianxiashuge/blob/master/README.md
-- true
+- 建议更新
+- 2018-2-28 11:23
+- 建议更新，新版本修复因缓存无法删除导致占用手机内存问题。改进部分功能
+- 前往下载
+- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
+- false
 - 5000
 - false
 - ca-app-pub-4533308396777454/5937435545
