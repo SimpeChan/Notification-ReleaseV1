@@ -1,6 +1,6 @@
 - 建议更新
-- 2018-2-28 11:23
-- 建议更新，新版本修复因缓存无法删除导致占用手机内存问题。改进部分功能
+- 2018-2-28 11:24
+- 建议更新，新版本修复因缓存无法删除导致占用手机内存问题。改进部分功能.
 - 前往下载
 - https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
 - false
