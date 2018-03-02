@@ -3,7 +3,7 @@
 - 建议更新，新版本修复因缓存无法删除导致占用手机内存问题。改进部分功能.
 - 前往下载
 - https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
-- false
+- true
 - 5000
 - false
 - ca-app-pub-4533308396777454/5937435545
